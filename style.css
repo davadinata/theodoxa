@@ -1,0 +1,23 @@
+.jumbotron {
+  padding-top: 6rem;
+  background: rgb(255, 255, 255);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 1) 36%, rgba(196, 215, 224, 1) 100%, rgba(196, 215, 224, 1) 100%);
+}
+
+#projects {
+  background: rgb(255, 255, 255);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(196, 215, 224, 1) 14%, rgba(196, 215, 224, 1) 100%);
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.overlay {
+  width: 100px;
+  top: 0;
+  left: 0;
+  botton: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+}
